@@ -13,5 +13,6 @@ public class Main {
         float percentNoies=(Noies/Total)*100;
         System.out.println("Percentatge de noies:" + percentNoies + "%");
         System.out.println("Percentatge de noies:" + percentNoies + "%");
+        System.out.println("git learning");
     }
 }
