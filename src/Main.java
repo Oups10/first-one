@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Percentatge de noies:" + percentNoies + "%");
         System.out.println("Percentatge de noies:" + percentNoies + "%");
         System.out.println("git learning");
+        System.out.println("je suis sur test");
     }
 }
