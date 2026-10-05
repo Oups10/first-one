@@ -16,6 +16,6 @@ public class Main {
         System.out.println("git learning");
         System.out.println("je suis sur test");
         System.out.println("je viens de faire mon premier push");
-        System.out.println("je modifie sur github");
+        System.out.println("modification master");
     }
 }
